@@ -20,6 +20,8 @@ export default function SectionDivider({text, link}){
 
     }
 
+    
+
     return(
         <div className="section-divider">
             <div className="divider-col ">
